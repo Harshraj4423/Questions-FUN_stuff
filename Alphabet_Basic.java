@@ -1,4 +1,4 @@
-public class Basic_Pattern {
+public class Alphabet_Basic {
 
     public static void printH() {
         int n = 5;// n should be Odd
@@ -134,24 +134,7 @@ public class Basic_Pattern {
 
 
     public static void main(String[] args) {
-        
-     
-        // printH();
-        // printA();
-        printR();
-        // printS();
-        // printH();
-        // printR();
-        // printA();
-        // printJ();
-
-     
-        
-       
-
-       
-        
-        
+    
     }
     
 }
